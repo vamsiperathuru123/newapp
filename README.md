@@ -1,7 +1,7 @@
 # new_app
 
 A new Flutter project.
-
+## Whole Documentation is in Wiki Page
 ## Getting Started
 
 This project is a starting point for a Flutter application.
